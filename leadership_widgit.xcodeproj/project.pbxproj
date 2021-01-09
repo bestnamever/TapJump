@@ -14,7 +14,6 @@
 		21392B1125A40B48009CAA8F /* LeaderBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2139297A25A3EE72009CAA8F /* LeaderBoard.swift */; };
 		2149CAA925A4576600EBB00B /* ARContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2149CAA825A4576600EBB00B /* ARContentView.swift */; };
 		2149CAB225A457DF00EBB00B /* ScoresView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2149CAB125A457DF00EBB00B /* ScoresView.swift */; };
-		2149CB1725A47DD200EBB00B /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 2149CB1625A47DD200EBB00B /* Experience.rcproject */; };
 		215BD1EB25A3CD8B0086837C /* JumpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215BD1EA25A3CD8B0086837C /* JumpView.swift */; };
 		215BD28925A3EC8B0086837C /* leadership_widgitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215BD28625A3EC8B0086837C /* leadership_widgitApp.swift */; };
 		217643FA2588040A009202C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217643F92588040A009202C7 /* ContentView.swift */; };
@@ -29,6 +28,10 @@
 		2176444425880BD5009202C7 /* My_Widget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 2176444025880BD4009202C7 /* My_Widget.intentdefinition */; };
 		2176444525880BD5009202C7 /* My_Widget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 2176444025880BD4009202C7 /* My_Widget.intentdefinition */; };
 		2176444825880BD5009202C7 /* My-WidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 2176443725880BD4009202C7 /* My-WidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		21B0622525A5C02C001C678B /* Blocks.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 21B0622425A5C02C001C678B /* Blocks.rcproject */; };
+		21B0623525A5C069001C678B /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 21B0623425A5C069001C678B /* Experience.rcproject */; };
+		21B0624D25A5C33F001C678B /* BlockStops.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 21B0624C25A5C33F001C678B /* BlockStops.rcproject */; };
+		21B0625625A5E61A001C678B /* circlestops.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 21B0625525A5E61A001C678B /* circlestops.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,7 +93,6 @@
 		2139297A25A3EE72009CAA8F /* LeaderBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderBoard.swift; sourceTree = "<group>"; };
 		2149CAA825A4576600EBB00B /* ARContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARContentView.swift; sourceTree = "<group>"; };
 		2149CAB125A457DF00EBB00B /* ScoresView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoresView.swift; sourceTree = "<group>"; };
-		2149CB1625A47DD200EBB00B /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = Experience.rcproject; path = ../../ARtapjump/ARtapjump/Experience.rcproject; sourceTree = "<group>"; };
 		215BD1EA25A3CD8B0086837C /* JumpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpView.swift; sourceTree = "<group>"; };
 		215BD20525A3DBA20086837C /* arjump.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = arjump.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		215BD21725A3DBA20086837C /* arjumpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = arjumpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -115,6 +117,11 @@
 		2176444125880BD5009202C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2176444325880BD5009202C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2176445B25880D0D009202C7 /* My-WidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "My-WidgetExtension.entitlements"; sourceTree = "<group>"; };
+		21B0622425A5C02C001C678B /* Blocks.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Blocks.rcproject; sourceTree = "<group>"; };
+		21B0623425A5C069001C678B /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
+		21B0623D25A5C0BE001C678B /* MyScene.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = MyScene.rcproject; sourceTree = "<group>"; };
+		21B0624C25A5C33F001C678B /* BlockStops.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = BlockStops.rcproject; sourceTree = "<group>"; };
+		21B0625525A5E61A001C678B /* circlestops.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = circlestops.rcproject; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,7 +209,8 @@
 		217643F62588040A009202C7 /* leadership_widgit */ = {
 			isa = PBXGroup;
 			children = (
-				2149CB1625A47DD200EBB00B /* Experience.rcproject */,
+				21B0622425A5C02C001C678B /* Blocks.rcproject */,
+				21B0623425A5C069001C678B /* Experience.rcproject */,
 				215BD28625A3EC8B0086837C /* leadership_widgitApp.swift */,
 				217643FB2588040C009202C7 /* Assets.xcassets */,
 				217644002588040C009202C7 /* Info.plist */,
@@ -215,6 +223,9 @@
 				2139297A25A3EE72009CAA8F /* LeaderBoard.swift */,
 				2149CAA825A4576600EBB00B /* ARContentView.swift */,
 				2149CAB125A457DF00EBB00B /* ScoresView.swift */,
+				21B0625525A5E61A001C678B /* circlestops.rcproject */,
+				21B0624C25A5C33F001C678B /* BlockStops.rcproject */,
+				21B0623D25A5C0BE001C678B /* MyScene.rcproject */,
 			);
 			path = leadership_widgit;
 			sourceTree = "<group>";
@@ -534,16 +545,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2149CB1725A47DD200EBB00B /* Experience.rcproject in Sources */,
 				217643FA2588040A009202C7 /* ContentView.swift in Sources */,
+				21B0624D25A5C33F001C678B /* BlockStops.rcproject in Sources */,
 				2139297B25A3EE72009CAA8F /* LeaderBoard.swift in Sources */,
+				21B0623525A5C069001C678B /* Experience.rcproject in Sources */,
 				2136E03A2588CAF5001F90BF /* BlurView.swift in Sources */,
 				2149CAB225A457DF00EBB00B /* ScoresView.swift in Sources */,
 				2149CAA925A4576600EBB00B /* ARContentView.swift in Sources */,
 				2136E0342588C6F9001F90BF /* CustomShape.swift in Sources */,
 				215BD28925A3EC8B0086837C /* leadership_widgitApp.swift in Sources */,
+				21B0622525A5C02C001C678B /* Blocks.rcproject in Sources */,
 				215BD1EB25A3CD8B0086837C /* JumpView.swift in Sources */,
 				2176444525880BD5009202C7 /* My_Widget.intentdefinition in Sources */,
+				21B0625625A5E61A001C678B /* circlestops.rcproject in Sources */,
 				2136E0402588CBDB001F90BF /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
